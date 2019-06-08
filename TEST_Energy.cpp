@@ -1,5 +1,5 @@
 #include<iostream>
-#include "lattice.cpp"
+#include "lattice.h"
 
 using namespace std
 
